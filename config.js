@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.Owner = ['+94 72 253 5399']  // -- Add multiple numbers like  ['+94 72 253 5399','+94 72 253 5399','+94 72 253 5399']
+global.OwnerNumber = ['+94773614270']  // -- Add multiple numbers like  ['+94773614270','+94773614270','+94773614270']
+global.ownertag = ['+94773614270']  // -- Add multiple numbers like  ['+94773614270','+94773614270','+94773614270']
+global.BotName = "❤𝐌𝐈⃞𝐊𝐔 𝐌⃞𝐃❤️"
+global.packname = "𝙼𝙸𝙺𝚄 𝙼𝙳 𝙱𝙾𝚃"
+global.author = "By: RE𝙰L N𝙾TY"
+global.OwnerName = "𝚁𝙴𝙰𝙻 𝙽𝙾𝚃𝚈"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
+global.SupportGroupLink = "https://chat.whatsapp.com/LHEraDdQfi42tIiJRxmIAl"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
@@ -23,12 +23,12 @@ global.sessionName = "session"  // -- Don't change otherwise bot will not work -
 global.prefa = ['-'] // Prefix ---  change it to anythong you want except '@' //
 
 
-global.location = "West Bengal, India"
+global.location = "Colombo, Sri Lanka"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/FantoX001"
-global.lolhuman = "KaysaS"
+global.lolhuman = "𝚁𝙴𝙰𝙻 𝙽𝙾𝚃𝚈"
 
 
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
